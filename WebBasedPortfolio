@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PortFolio</title>
+    <link href="WebCSS.css" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">Stanley Regalado</a>
+        <div class="sitelinks">
+            <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=stanleyregalado43@gmail.com&tf=1"><i class='bx bxl-gmail'></i></a>
+            <a href="https://www.facebook.com/stanleymiguel.regalado/"><i class='bx bxl-facebook' ></i></a>
+            <a href="https://www.linkedin.com/in/stanleyregalado-1697052b2"><i class='bx bxl-linkedin' ></i></a>
+        </div>
+
+        <nav class="navigation">
+            <a href="#" class="active">Home</a>
+            <a href="WorkExperiencePage.html">Work Experience</a>
+        </nav>
+    </header>
+
+    <section class="home">
+        <div class="home-content">
+            <h1>Hello, I'm Stanley Regalado</h1>
+            <h3>Computer Science Student</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae non totam ipsam deserunt tempore, est quo ducimus nulla! Dicta eligendi culpa numquam obcaecati expedita, atque itaque doloremque modi explicabo facilis.</p>
+            <div class = "buttonBox">
+                <a href="#">Hire Me</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
